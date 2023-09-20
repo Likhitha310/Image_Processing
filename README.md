@@ -1,2 +1,2 @@
-# Simple_Data-Visualization
+# Sample_Data-Visualization
 To visualize images using ML 
