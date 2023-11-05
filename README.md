@@ -1,2 +1,2 @@
-# Sample_Data-Visualization
+# Image Processing
 To visualize images using ML 
